@@ -1,5 +1,3 @@
-# Laughing-q
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Laughing-q">
